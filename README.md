@@ -8,7 +8,8 @@ Minimalist widgets for Scriptable that integrate with Apple Reminders to display
 
 # Screen:
 <img width="563" height="1218" alt="screen 1" src="https://github.com/user-attachments/assets/d7b1812a-becf-44ce-8da4-a07f0dfdb3b2" />
-<img width="563" height="1218" alt="screen 2" src="https://github.com/user-attachments/assets/6120629a-6f3b-44c4-975a-842ad8e26d7f" />
+<img width="563" height="1218" alt="IMG_1159" src="https://github.com/user-attachments/assets/acd35f9a-12af-4c00-94a1-3de942bb2718" />
+
 
 
 # more
