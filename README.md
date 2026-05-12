@@ -7,8 +7,8 @@ Requirements
 * Access to Apple Reminders
 
 Screen:
-![Widget Preview 1](./images/screen 1.PNG)
-![Widget Preview 2](./images/screen 2.PNG)
+![Widget Preview 1](./screen 1.PNG)
+![Widget Preview 2](./screen 2.PNG)
 
 
 Code by ChatGTP.app and claude.app and 1% my; test: iphone 13 mini 
